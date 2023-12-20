@@ -1,0 +1,156 @@
+{
+  "product": [
+    {
+      "name": "length counter meter",
+      "id": "1100AA01",
+      "manufacturer": "destoch",
+      "description": "This article demonstrates some error handling approaches when working with the Fetch API. The Fetch API lets you make a request to a remote network resource. When you make a remote network call, your web page becomes subject to a variety of potential network errors.",
+      "quantity": "12",
+      "category": "newStock"
+    },
+    {
+      "name": "TC-19 ( Fixed input, Single Display Temperature Controller) Manufactured by multispan",
+      "id": "1117755",
+      "manufacturer": " Multispan",
+      "description": "A temperature controller is a device used to regulate the temperature of a system or process. It typically includes a temperature sensor to measure the current temperature and a control algorithm to adjust heating or cooling elements to maintain a desired temperature setpoint.  If you have a specific question about TC-19 or need information about a particular aspect of temperature controllers, please provide more details, and I’ll do my best to assist you.",
+      "quantity": "15",
+      "category": "newStock"
+    },
+    {
+      "name": "Ring Sensor with 6mm Hole II Make: DOLPHIN",
+      "id": "101024",
+      "manufacturer": "DOLPHIN",
+      "description": "Inductive Sensor which detects all types of Metallic target. Sensor sensing range varies with Amount of Ferrous Content in Metal. Used for Positioning,aligning & Counting Applications.",
+      "quantity": "10",
+      "category": "newStock"
+    },
+    {
+      "name": "Slot Sensor EE-SX673P Sn: 5mm Gap II Make: OMRON",
+      "id": "11111111",
+      "manufacturer": "dolphin",
+      "description": "Non-modulated Through-beam type, Grooved Type (Standard), Connector type, Sensing distance 5 mm, Dark-ON/Light-ON (selectable), PNP open collector output, Light indicator.",
+      "quantity": "25",
+      "category": "newStock"
+    },
+    {
+      "name": "M18 Photoelectric Sensor NPN-NO Sensing: 1 Meter II Make: DOLPHIN",
+      "id": "457845",
+      "manufacturer": "dolphin",
+      "description": "M18 Photoelectric Sensor with IR(Infra-red) Lights helps in detection of any target that is opaque like Wood,Plastic,Rubber,Metal,Carbaord, etc.",
+      "quantity": "20",
+      "category": "newStock"
+    },
+    {
+      "name": "fjdkljfkldj",
+      "id": "kljklj",
+      "manufacturer": "kljkl",
+      "description": "jklj",
+      "quantity": "kljkl",
+      "category": "newStock"
+    },
+    {
+      "name": "Day-Night Delay Timer with Relay Output I Programmable Electronic Timer Switch 4 - Pin, 230 Volt AC",
+      "id": "101010",
+      "manufacturer": "dolphin",
+      "description": "LEYDEN® Digital Programmable Electronic Timer Switch 4 – Pin, 230 Volt AC TM619H-2, 30A, 18 Programs Digital Timer with Clock and Auto Cut Off Function Taiwan (White)",
+      "quantity": "50",
+      "category": "newStock"
+    },
+    {
+      "name": "Optical Fiber Amplifier Sensor E3X-NA41",
+      "id": "1234567879",
+      "manufacturer": "dolphin",
+      "description": "This Amplifier Converts the Light signal of Optical Fiber into Electrical signal which is a DC Signal which can be used to give to controller like PLC",
+      "quantity": "25",
+      "category": "newStock"
+    },
+    {
+      "name": "aaaaaaaaa",
+      "id": "12345",
+      "manufacturer": "dolphin",
+      "description": "lorem ipsum",
+      "quantity": "25",
+      "category": "newStock"
+    },
+    {
+      "name": "jhkjh",
+      "id": "jkhjk",
+      "manufacturer": "hkj",
+      "description": "hjk",
+      "quantity": "hjk",
+      "category": "newStock"
+    },
+    {
+      "name": "jhkj",
+      "id": "hkj",
+      "manufacturer": "hk",
+      "description": "jh",
+      "quantity": "jk",
+      "category": "newStock"
+    },
+    {
+      "name": "product name",
+      "id": "12345600",
+      "manufacturer": "dolphin",
+      "description": "lorem ipsum",
+      "quantity": "30",
+      "category": "newStock"
+    },
+    {
+      "name": "jhjkh",
+      "id": "jkh",
+      "manufacturer": "jkh",
+      "description": "jk",
+      "quantity": "hkj",
+      "category": "newStock"
+    },
+    {
+      "name": "jfkldjfklsdjflkdsj",
+      "id": "545465465",
+      "manufacturer": "jkjffkjdsjf",
+      "description": "fhkjdhfkjsdfhk",
+      "quantity": "20",
+      "category": "newStock"
+    },
+    {
+      "name": "kljlkjlk",
+      "id": "jlkjlkj",
+      "manufacturer": "kl",
+      "description": "jkl",
+      "quantity": "j",
+      "category": "newStock"
+    },
+    {
+      "name": "jlkjlk",
+      "id": "kljkljkl",
+      "manufacturer": "j",
+      "description": "klj",
+      "quantity": "klj",
+      "category": "newStock"
+    },
+    {
+      "name": "jhjhjk",
+      "id": "jkljlk",
+      "manufacturer": "kljklj",
+      "description": "kl",
+      "quantity": "jkl",
+      "category": "newStock"
+    },
+    {
+      "name": "hjkhkjhk",
+      "id": "jhkj",
+      "manufacturer": "h",
+      "description": "jkhjkh",
+      "quantity": "hjkhk",
+      "category": "newStock"
+    },
+    {
+      "name": "Optical Fiber Amplifier Sensor E3X-NA41",
+      "id": "45ASQW111",
+      "manufacturer": "Dolphin",
+      "description": "This Amplifier Converts the Light signal of Optical Fiber into Electrical signal which is a DC Signal which can be used to give to controller like PLC.",
+      "quantity": "50",
+      "category": "newStock"
+    }
+  ]
+}
